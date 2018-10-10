@@ -1,0 +1,10 @@
+<resources>
+    <string name="main_app_name">My_Memo_App</string>
+
+    <string name="main_title_home">Home</string>
+
+    <string name="main_title_memo">메모쓰기</string>
+
+    <string name="main_title_mypage">mypage</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>
